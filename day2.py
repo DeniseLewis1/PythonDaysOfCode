@@ -4,4 +4,4 @@ import math
 
 r = float(input("Enter radius: "))
 
-print(f'Area of cirle: {math.pi * r ** 2}')
+print(f'Area of circle: {math.pi * r ** 2}')

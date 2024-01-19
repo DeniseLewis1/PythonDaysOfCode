@@ -11,3 +11,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [6](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day6.py)  | Write a program to count the occurrences of a specific character in a string  |
 | [7](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day7.py)  | Write a program to check if a number is positive, negative, or zero  |
 | [8](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day8.py)  | Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it  |
+| [9](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day9.py)  | Write a program to check if a number is even or odd  |

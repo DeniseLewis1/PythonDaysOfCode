@@ -18,3 +18,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [13](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day13.py)  | Write a program to shuffle the elements of a list randomly  |
 | [14](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day14.py)  | Write a program to print the first n numbers of a Fibonacci sequence  |
 | [15](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day15.py)  | Create a program that checks if a year is a leap year  |
+| [16](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day16.py)  | Write a function that counts the frequency of each word in a sentence  |

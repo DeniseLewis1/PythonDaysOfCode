@@ -19,3 +19,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [14](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day14.py)  | Write a program to print the first n numbers of a Fibonacci sequence  |
 | [15](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day15.py)  | Create a program that checks if a year is a leap year  |
 | [16](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day16.py)  | Write a function that counts the frequency of each word in a sentence  |
+| [17](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day17.py)  | Create a program that capitalizes the first letter of each word in a sentence  |

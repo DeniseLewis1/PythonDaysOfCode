@@ -20,3 +20,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [15](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day15.py)  | Create a program that checks if a year is a leap year  |
 | [16](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day16.py)  | Write a function that counts the frequency of each word in a sentence  |
 | [17](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day17.py)  | Create a program that capitalizes the first letter of each word in a sentence  |
+| [18](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day18.py)  | Create a program to find the largest among three numbers  |

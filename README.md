@@ -23,3 +23,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [18](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day18.py)  | Create a program to find the largest among three numbers  |
 | [19](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day19.py)  | Write a function to calculate the factorial of a number  |
 | [20](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day20.py)  | Write a function that takes a list of numbers and returns a new list containing only the even numbers  |
+| [21](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day21.py)  | Create a program to remove a specific element from a set  |

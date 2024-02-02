@@ -25,3 +25,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [20](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day20.py)  | Write a function that takes a list of numbers and returns a new list containing only the even numbers  |
 | [21](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day21.py)  | Create a program to remove a specific element from a set  |
 | [22](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day22.py)  | Create a program to find the second-largest element in a list  |
+| [23](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day23.py)  | Write a program that checks if a key exists in a dictionary  |

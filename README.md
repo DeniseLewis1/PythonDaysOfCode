@@ -28,3 +28,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [23](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day23.py)  | Write a program that checks if a key exists in a dictionary  |
 | [24](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day24.py)  | Write a program to remove vowels from a given string  |
 | [25](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day25.py)  | Create a program to concatenate two lists  |
+| [26](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day26.py)  | Create a program that uses a lambda function to square each element of a list  |

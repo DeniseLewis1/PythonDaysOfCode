@@ -30,3 +30,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [25](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day25.py)  | Create a program to concatenate two lists  |
 | [26](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day26.py)  | Create a program that uses a lambda function to square each element of a list  |
 | [27](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day27.py)  | Create a program that sorts a list of strings alphabetically  |
+| [28](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day28.py)  | Create a program that removes the nth element from a list  |

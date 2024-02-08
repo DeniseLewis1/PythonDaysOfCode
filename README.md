@@ -31,3 +31,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [26](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day26.py)  | Create a program that uses a lambda function to square each element of a list  |
 | [27](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day27.py)  | Create a program that sorts a list of strings alphabetically  |
 | [28](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day28.py)  | Create a program that removes the nth element from a list  |
+| [29](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day29.py)  | Create a function that generates a random number between a given range  |

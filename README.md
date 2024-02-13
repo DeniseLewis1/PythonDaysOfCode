@@ -36,3 +36,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [31](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day31.py)  | Create a program that checks if a given string is a valid email address  |
 | [32](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day32.py)  | Create a function that calculates the average of a list of numbers  |
 | [33](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day33.py)  | Write a test case for a function that checks if a number is prime  |
+| [34](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day34.py)  | Write a Python program to merge two dictionaries  |

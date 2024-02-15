@@ -38,3 +38,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [33](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day33.py)  | Write a test case for a function that checks if a number is prime  |
 | [34](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day34.py)  | Write a Python program to merge two dictionaries  |
 | [35](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day35.py)  | Write a simple unit test for a function that adds two numbers  |
+| [36](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day36.py)  | Write a Python program to check if two strings are anagrams  |

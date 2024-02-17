@@ -40,3 +40,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [35](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day35.py)  | Write a simple unit test for a function that adds two numbers  |
 | [36](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day36.py)  | Write a Python program to check if two strings are anagrams  |
 | [37](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day37.py)  | Write a program to iterate through a dictionary and print its keys and values  |
+| [38](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day38.py)  | Write a program to flatten a nested list  |

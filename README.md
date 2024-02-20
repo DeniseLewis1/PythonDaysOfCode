@@ -43,3 +43,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [38](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day38.py)  | Write a program to flatten a nested list  |
 | [39](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day39.py)  | Write a program to find the most common words in a text file  |
 | [40](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day40.py)  | Write a function to find the largest common divisor of two numbers using a function  |
+| [41](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day41.py)  | Write a program that uses recursion to generate all permutations of a list  |

@@ -46,3 +46,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [41](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day41.py)  | Write a program that uses recursion to generate all permutations of a list  |
 | [42](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day42.py)  | Write a program that uses a try-except block to handle division by zero  |
 | [43](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day43.py)  | Write a program that removes all whitespaces from a given string  |
+| [44](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day44.py)  | Write a program that reads an integer from the user and handles invalid inputs  |

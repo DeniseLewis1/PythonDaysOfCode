@@ -48,3 +48,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [43](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day43.py)  | Write a program that removes all whitespaces from a given string  |
 | [44](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day44.py)  | Write a program that reads an integer from the user and handles invalid inputs  |
 | [45](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day45.py)  | Write a function to check if a number is a prime number  |
+| [46](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day46.py)  | Write a function to check if a given list is sorted  |

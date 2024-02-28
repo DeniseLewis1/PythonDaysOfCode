@@ -51,3 +51,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [46](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day46.py)  | Write a function to check if a given list is sorted  |
 | [47](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day47.py)  | Create a program that imports the math module and uses its functions  |
 | [48](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day48.py)  | Create a program that replaces specific words in a text with their synonyms  |
+| [49](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day49.py)  | Create a program that implements the bubble sort algorithm  |

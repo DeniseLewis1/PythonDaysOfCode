@@ -53,3 +53,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [48](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day48.py)  | Create a program that replaces specific words in a text with their synonyms  |
 | [49](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day49.py)  | Create a program that implements the bubble sort algorithm  |
 | [50](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day50.py)  | Create a program that finds the intersection and union of two sets  |
+| [51](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day51.py)  | Create a program that counts the occurrences of each word in a text file  |

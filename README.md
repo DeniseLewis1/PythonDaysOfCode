@@ -56,3 +56,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [51](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day51.py)  | Create a program that counts the occurrences of each word in a text file  |
 | [52](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day52.py)  | Create a program that checks if a string is a palindrome  |
 | [53](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day53.py)  | Create a program that allows users to draw on a canvas using a GUI  |
+| [54](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day54.py)  | Create a function to find all words in a sentence that start with a vowel  |

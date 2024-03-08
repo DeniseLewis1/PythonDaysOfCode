@@ -60,3 +60,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [55](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day55.py)  | Create a function that takes a string and returns the reverse of each word  |
 | [56](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day56.py)  | Create a function to extract all URLs from a given text using regular expressions  |
 | [57](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day57.py)  | Create a function that returns the key with the maximum value in a dictionary  |
+| [58](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day58.py)  | Create a function that converts a string to an integer and handles ValueError  |

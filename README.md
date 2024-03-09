@@ -61,4 +61,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [56](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day56.py)  | Create a function to extract all URLs from a given text using regular expressions  |
 | [57](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day57.py)  | Create a function that returns the key with the maximum value in a dictionary  |
 | [58](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day58.py)  | Create a function that converts a string to an integer and handles ValueError  |
-| [59](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day58.py)  | Create a function that checks if a number is a perfect square  |
+| [59](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day59.py)  | Create a function that checks if a number is a perfect square  |

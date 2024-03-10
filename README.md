@@ -62,3 +62,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [57](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day57.py)  | Create a function that returns the key with the maximum value in a dictionary  |
 | [58](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day58.py)  | Create a function that converts a string to an integer and handles ValueError  |
 | [59](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day59.py)  | Create a function that checks if a number is a perfect square  |
+| [60](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day60.py)  | Create a class representing a simple bank account with deposit and withdraw methods  |

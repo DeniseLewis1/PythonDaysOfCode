@@ -63,3 +63,4 @@ Participating in the Women Who Code Python Days of Code Challenge
 | [58](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day58.py)  | Create a function that converts a string to an integer and handles ValueError  |
 | [59](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day59.py)  | Create a function that checks if a number is a perfect square  |
 | [60](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day60.py)  | Create a class representing a simple bank account with deposit and withdraw methods  |
+| [61](https://github.com/DeniseLewis1/PythonDaysOfCode/blob/main/day61.py)  | Create a program to implement a stack using a list  |
